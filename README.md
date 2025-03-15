@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on **Lumin**
 - 🌱 I’m currently learning **Java, Python, and C**
-- 👯 I’m looking to collaborate on **open-source projects**
+- 👀 I’m looking for **Internships**
 - 💬 Ask me about **software development and programming**
 - 📫 How to reach me: **protondoesthings@gmail.com**
 - 😄 Pronouns: **He/Him**
