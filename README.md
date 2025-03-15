@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Mathew</h1>
 <h3 align="center">An aspiring software engineering student</h3>
 
+<h1>About me:</h1>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Proton-PLU5&label=Profile%20views&color=0e75b6&style=flat" alt="Proton-PLU5" />
 </p>
