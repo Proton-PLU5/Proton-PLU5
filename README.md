@@ -20,7 +20,7 @@ Here are some ideas to get you started:
   <img src="https://komarev.com/ghpvc/?username=Proton-PLU5&label=Profile%20views&color=0e75b6&style=flat" alt="Proton-PLU5" />
 </p>
 
-- 🔭 I’m currently working on **Quick Share**
+- 🔭 I’m currently working on **Lumin**
 - 🌱 I’m currently learning **Java, Python, and C**
 - 👯 I’m looking to collaborate on **open-source projects**
 - 💬 Ask me about **software development and programming**
