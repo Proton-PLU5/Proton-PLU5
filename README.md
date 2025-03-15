@@ -13,8 +13,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 align="center">Hi 👋, I'm Mathew</h1>
-<h3 align="center">An aspiring software engineering student</h3>
+<h1>Hi 👋, I'm Mathew</h1>
+<h3>An aspiring software engineering student</h3>
 
 <h1>About me:</h1>
 <p align="center">
