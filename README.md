@@ -46,6 +46,6 @@ Here are some ideas to get you started:
 <h3 align="left">Projects:</h3>
 <ul>
   <li><strong>Study Planner:</strong> An app that helps students with their study schedules.</li>
-  <li><strong href="https://github.com/Proton-PLU5/Lumin">Lumin:</strong> A personalized desktop assistant.</li>
+  <li><a href="https://github.com/Proton-PLU5/Lumin"><strong>Lumin:</strong></a> A personalized desktop assistant.</li>
   <li><strong>Quick Share:</strong> A LAN file transfer system.</li>
 </ul>
