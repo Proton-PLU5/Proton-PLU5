@@ -45,7 +45,7 @@ Here are some ideas to get you started:
 
 <h3 align="left">Projects:</h3>
 <ul>
-  <li><strong>Study Planner:</strong> An app that helps students with their study schedules.</li>
+  <li><a href="https://github.com/Proton-PLU5/Study-Planner"><strong>Study Planner:</strong></a> An app that helps students with their study schedules.</li>
   <li><a href="https://github.com/Proton-PLU5/Lumin"><strong>Lumin:</strong></a> A personalized desktop assistant.</li>
-  <li><strong>Quick Share:</strong> A LAN file transfer system.</li>
+  <li><a href="https://github.com/Proton-PLU5/Quick-Share"><strong>Quick Share:</strong></a> A LAN file transfer system.</li>
 </ul>
