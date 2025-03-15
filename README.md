@@ -16,10 +16,11 @@ Here are some ideas to get you started:
 <h1>Hi 👋, I'm Mathew</h1>
 <h3>An aspiring software engineering student</h3>
 
-<h1>About me:</h1>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Proton-PLU5&label=Profile%20views&color=0e75b6&style=flat" alt="Proton-PLU5" />
 </p>
+
+<h1>About me:</h1>
 
 - 🔭 I’m currently working on **Lumin**
 - 🌱 I’m currently learning **Java, Python, and C**
@@ -36,9 +37,12 @@ Here are some ideas to get you started:
 
 <h3 align="left">Languages and Tools:</h3>
 
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
+| Tools |  |
+|---|---|
+| ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) | ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
+
+
+
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 
 ![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white) 
