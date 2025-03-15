@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1>Hi   , I'm Mathew</h1>
+<h1>Hi 👋, I'm Mathew</h1>
 <h3>An aspiring software engineering student</h3>
 
 <p align="center">
