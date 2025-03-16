@@ -12,6 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<img src=https://github.com/Proton-PLU5/Proton-PLU5/blob/main/Group%201.png?raw=true></img>
 
 <h1>Hi 👋, I'm Mathew</h1>
 <h3>An aspiring software engineering student</h3>
