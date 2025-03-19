@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![Nameplate](https://github.com/Proton-PLU5/Proton-PLU5/blob/main/Group%201.png?raw=true)
+![Nameplate](https://github.com/Proton-PLU5/Proton-PLU5/blob/main/Nameplate.png?raw=true)
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Proton-PLU5&label=Profile%20views&color=0e75b6&style=flat" alt="Proton-PLU5" />
